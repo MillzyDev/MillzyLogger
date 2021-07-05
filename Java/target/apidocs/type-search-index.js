@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"dev.MillzyG.MillzyLogger","l":"Logger.Level"},{"p":"dev.MillzyG.MillzyLogger","l":"Logger"}];updateSearchResults();
